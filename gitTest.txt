@@ -1,4 +1,48 @@
+Last login: Mon Mar 31 13:38:12 on ttys000
+mikata@mikatanoMacBook-Air ~ % cd desktop/gitManage
+mikata@mikatanoMacBook-Air gitManage % ls
+gitTest.txt		gitTest.txt.save
+mikata@mikatanoMacBook-Air gitManage % nano gitTest.txt.save
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                     File: gitTest.txt.save                       
+
 git 確認用ファイル
 
 変更１
 変更２　ここ
+変更３　git status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
