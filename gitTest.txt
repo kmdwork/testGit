@@ -2,6 +2,7 @@
 変更２　ここ
 変更３　git status
 変更4 訂正
+変更５　git diff
 
 
 
